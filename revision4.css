@@ -1,0 +1,3 @@
+/* Keep the hero artwork sharp; give only the text a soft glass reading surface. */
+.hero .hero-fog{display:none}.hero .hero-copy{padding:26px 30px 28px;margin-left:-30px;border-radius:30px;background:linear-gradient(135deg,rgba(29,19,74,.50),rgba(59,35,104,.16));backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);box-shadow:0 12px 45px rgba(16,9,52,.16)}
+@media(max-width:720px){.hero .hero-copy{padding:19px 20px 22px;margin-left:-20px;border-radius:23px}}
