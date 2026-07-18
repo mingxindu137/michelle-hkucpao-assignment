@@ -1,0 +1,2 @@
+/* Use compact WebP artwork for faster first-page and scene loading. */
+.hero .scene-image{background-image:url('assets/hero.webp')}.growth .day-image{background-image:url('assets/growth-day.webp')}.growth .night-image{background-image:url('assets/growth-night.webp')}.bloom .scene-image{background-image:url('assets/bloom.webp')}.clarity .scene-image{background-image:url('assets/clarity.webp')}.toolkit .scene-image{background-image:url('assets/toolkit.webp')}
